@@ -1,0 +1,5 @@
+{
+    "require": {
+        "../../youcanpay-wordpress-plugin/vendor/youcanpay/payment-sdk": "0.1.22"
+    }
+}
